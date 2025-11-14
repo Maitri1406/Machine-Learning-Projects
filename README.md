@@ -1,21 +1,9 @@
 # Machine-Learning-Projects
 Here I built 2 project using Linear Regression and KNN in ML .This project contains two separate machine learning workflows built using Python.
-The first dataset is used to build a K-Nearest Neighbors (KNN) Classification Model, and the second dataset is used to build a Linear Regression Model for House Price Prediction.
+The first dataset is used to build a Linear Regression Model for House Price Prediction, and the second dataset is used to build a  K-Nearest Neighbors (KNN) Classification Model.
 Both models include full data cleaning, preprocessing, feature engineering, visualization, and model evaluation.
 
 # Project Overview
-# KNN Classification Model
-- Dataset: **dataset/Loan Application.xlsx**
-- Goal: Predict class labels using similarity-based classification
-  - Workflow includes:
-    - Data cleaning & preprocessing
-    - Encoding categorical data  
-    - Feature scaling
-    - Train-test splitting  
-    - Model training using KNN
-    - Hyperparameter tuning (finding optimal K)
-    - Accuracy, confusion matrix & classification report
-
 # Linear Regression Model – House Price Prediction
 - Dataset: **dataset/Melbourne_housing_FULL.csv**
 - Goal: Predict house prices based on numerical and categorical features
@@ -30,6 +18,18 @@ Both models include full data cleaning, preprocessing, feature engineering, visu
     - R² Score
     - MAE
     - RMSE
+
+# KNN Classification Model
+- Dataset: **dataset/Loan Application.xlsx**
+- Goal: Predict class labels using similarity-based classification
+  - Workflow includes:
+    - Data cleaning & preprocessing
+    - Encoding categorical data  
+    - Feature scaling
+    - Train-test splitting  
+    - Model training using KNN
+    - Hyperparameter tuning (finding optimal K)
+    - Accuracy, confusion matrix & classification report
 
 # Technologies Used
 - Python:Core programming
