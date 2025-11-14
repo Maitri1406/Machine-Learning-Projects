@@ -20,7 +20,7 @@ Both models include full data cleaning, preprocessing, feature engineering, visu
     - RMSE
 
 # KNN Classification Model
-- Dataset: **dataset/Loan Application.xlsx**
+- Dataset: <a href="https://github.com/Maitri1406/Machine-Learning-Projects/blob/main/Loan%20Application.xlsx">Loan Dataset</a>
 - Goal: Predict class labels using similarity-based classification
   - Workflow includes:
     - Data cleaning & preprocessing
