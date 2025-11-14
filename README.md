@@ -5,7 +5,7 @@ Both models include full data cleaning, preprocessing, feature engineering, visu
 
 # Project Overview
 # Linear Regression Model – House Price Prediction
-- Dataset: **dataset/Melbourne_housing_FULL.csv**
+- Dataset: **C:\Users\HP\OneDrive\Desktop\Resume Project\ML\Home Price-Regression.csv**
 - Goal: Predict house prices based on numerical and categorical features
   - Workflow includes:
     - Handling missing values
