@@ -5,7 +5,7 @@ Both models include full data cleaning, preprocessing, feature engineering, visu
 
 # Project Overview
 # Linear Regression Model – House Price Prediction
-- Dataset: <a href="https://github.com/Maitri1406/Machine-Learning-Projects/blob/main/House%20Price%20Forecasting%20with%20Regression%20Models.csv">Housing Price Dataset</a>
+- Dataset: <a href="https://github.com/Maitri1406/Machine-Learning-Projects/blob/main/House%20Price%20Forecasting%20with%20Regression%20Models.xlsx">Housing Price Dataset</a>
 - Goal: Predict house prices based on numerical and categorical features
   - Workflow includes:
     - Handling missing values
